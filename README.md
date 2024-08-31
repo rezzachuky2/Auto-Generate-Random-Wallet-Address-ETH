@@ -19,7 +19,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/rezzachuky2/Auto-Generate-Random-Wallet-Address-ETH
-cd wallet-generator
+cd Auto-Generate-Random-Wallet-Address-ETH
 ```
 Install the required Python library:
 ```bash
