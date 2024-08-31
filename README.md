@@ -1,12 +1,12 @@
 # Ethereum Random Wallet Generator
 
-A Python script to generate random Ethereum wallet addresses. The user can specify the number of addresses to create, and the script will save them to `random_wallets.txt`. Ideal for testing, simulations, or any application that requires generating multiple Ethereum addresses.
+A Python script to generate random Ethereum wallet addresses. The user can specify the number of addresses to create, and the script will save them to `wallets.txt`. Ideal for testing, simulations, or any application that requires generating multiple Ethereum addresses.
 
 ## Features
 
 - **Dynamic Input**: Users can specify how many Ethereum wallet addresses to generate.
 - **Checksum Validation**: Ensures generated Ethereum addresses are correctly formatted to prevent errors.
-- **Automatic Saving**: Outputs all generated addresses to a text file (`random_wallets.txt`).
+- **Automatic Saving**: Outputs all generated addresses to a text file (`wallets.txt`).
 
 ## Requirements
 
@@ -28,7 +28,7 @@ pip install eth-utils
 Usage
 Run the Python script:
 ```bash
-python generate_wallets.py
+python bot.py
 ```
 Input the number of addresses when prompted.
 
