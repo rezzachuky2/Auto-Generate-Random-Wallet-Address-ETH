@@ -45,7 +45,7 @@ The random_wallets.txt file will contain Ethereum wallet addresses such as:
 ...
 ```
 ## Contact
-For questions or suggestions, please open an issue or contact me at rezzapanakontesta@gmail.com.
+For questions or suggestions, please open an issue or contact me at cakidigital2@gmail.com.
 
 ## Donate Or Buy Me Coffe
  EVM ADDRESS
